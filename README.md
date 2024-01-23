@@ -4,4 +4,4 @@ in this repository you will see an html css template for a cool designed e-comme
 
 # Authors
 
-- created by Ishu Chaudhary from: [@vibracode](https://www.github.com/Ishu-dev)
+- created by Ishu Chaudhary. (https://www.github.com/Ishu-dev)
